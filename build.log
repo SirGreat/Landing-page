@@ -1,0 +1,55 @@
+
+> trustx-hub-landing@1.0.0 build
+> next build
+
+  ▲ Next.js 14.2.35
+
+   Creating an optimized production build ...
+ ⚠ Found lockfile missing swc dependencies, patching...
+ ⨯ Failed to patch lockfile, please try uninstalling and reinstalling next in this workspace
+TypeError: Cannot read properties of undefined (reading 'os')
+    at fetchPkgInfo (C:\dev\cv\node_modules\next\dist\lib\patch-incorrect-lockfile.js:73:25)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async Promise.all (index 0)
+    at async patchIncorrectLockfile (C:\dev\cv\node_modules\next\dist\lib\patch-incorrect-lockfile.js:162:26)
+ ⚠ Found lockfile missing swc dependencies, patching...
+ ⚠ Found lockfile missing swc dependencies, patching...
+request to https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2ZL7W0Q5n-wU.woff2 failed, reason: socket hang up
+
+Retrying 1/3...
+ ⨯ Failed to patch lockfile, please try uninstalling and reinstalling next in this workspace
+TypeError: Cannot read properties of undefined (reading 'os')
+    at fetchPkgInfo (C:\dev\cv\node_modules\next\dist\lib\patch-incorrect-lockfile.js:73:25)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async Promise.all (index 0)
+    at async patchIncorrectLockfile (C:\dev\cv\node_modules\next\dist\lib\patch-incorrect-lockfile.js:162:26)
+ ✓ Compiled successfully
+   Linting and checking validity of types ...
+   Collecting page data ...
+ ⚠ Found lockfile missing swc dependencies, patching...
+   Generating static pages (0/4) ...
+   Generating static pages (1/4) 
+   Generating static pages (2/4) 
+   Generating static pages (3/4) 
+ ✓ Generating static pages (4/4)
+   Finalizing page optimization ...
+   Collecting build traces ...
+
+Route (app)                              Size     First Load JS
+┌ ○ /                                    39 kB           126 kB
+└ ○ /_not-found                          873 B          88.1 kB
++ First Load JS shared by all            87.2 kB
+  ├ chunks/117-101b1a729b1c85ce.js       31.7 kB
+  ├ chunks/fd9d1056-1f1f859026f5f0fa.js  53.6 kB
+  └ other shared chunks (total)          1.85 kB
+
+
+○  (Static)  prerendered as static content
+
+ ⨯ Failed to patch lockfile, please try uninstalling and reinstalling next in this workspace
+TypeError: Cannot read properties of undefined (reading 'os')
+    at fetchPkgInfo (C:\dev\cv\node_modules\next\dist\lib\patch-incorrect-lockfile.js:73:25)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async Promise.all (index 0)
+    at async patchIncorrectLockfile (C:\dev\cv\node_modules\next\dist\lib\patch-incorrect-lockfile.js:162:26)
+    at async build (C:\dev\cv\node_modules\next\dist\build\index.js:2169:9)
