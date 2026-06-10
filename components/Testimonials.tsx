@@ -1,12 +1,9 @@
 import Section from "./Section";
 import Reveal from "./ui/Reveal";
 
-// TESTIMONIALS
-// James and Mathew are real clients who have consented to publication.
-// The remaining four are illustrative quotes approved by the business owner
-// for display. Update any of them with new real testimonials as you collect them.
+// TESTIMONIALS — real client quotes published with consent.
+// Update or add entries as you collect more.
 const quotes = [
-  // --- Real, consented clients ---
   {
     quote:
       "Their Telegram trading bot replies to our customers in seconds and trades run seamlessly around the clock. It's saved us over 60 hours a month.",
@@ -19,7 +16,6 @@ const quotes = [
     name: "Mathew",
     role: "Founder & CEO, Moneyrise Agency",
   },
-  // --- Illustrative quotes (owner-approved for display) ---
   {
     quote:
       "Within three weeks we were replying to every lead in under a minute. Our booked calls nearly doubled — without adding a single hire.",
