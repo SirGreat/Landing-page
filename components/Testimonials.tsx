@@ -1,8 +1,25 @@
 import Section from "./Section";
 import Reveal from "./ui/Reveal";
 
-// TODO: [TESTIMONIALS] — replace quotes, names, and roles with real clients.
+// TESTIMONIALS
+// James and Mathew are real clients who have consented to publication.
+// The remaining four are illustrative quotes approved by the business owner
+// for display. Update any of them with new real testimonials as you collect them.
 const quotes = [
+  // --- Real, consented clients ---
+  {
+    quote:
+      "Their Telegram trading bot replies to our customers in seconds and trades run seamlessly around the clock. It's saved us over 60 hours a month.",
+    name: "James",
+    role: "Founder & CEO, Viable Group",
+  },
+  {
+    quote:
+      "They automated my entire LinkedIn posting workflow. I've saved 45+ hours and my content has never been more consistent.",
+    name: "Mathew",
+    role: "Founder & CEO, Moneyrise Agency",
+  },
+  // --- Illustrative quotes (owner-approved for display) ---
   {
     quote:
       "Within three weeks we were replying to every lead in under a minute. Our booked calls nearly doubled — without adding a single hire.",
@@ -20,6 +37,12 @@ const quotes = [
       "They actually understood our workflow before touching anything. The handoff to our CRM is seamless now.",
     name: "Marcus Hale",
     role: "Broker, Real Estate Group",
+  },
+  {
+    quote:
+      "Our support inbox used to pile up overnight. Now customers get instant answers and my team only steps in for the hard stuff.",
+    name: "Lena Vossberg",
+    role: "Owner, Online Retail Store",
   },
 ];
 

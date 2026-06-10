@@ -1,8 +1,16 @@
 import Reveal from "./ui/Reveal";
 
-// TODO: [CLIENT LOGOS] — replace these text wordmarks with real client logos
-// (drop SVG/PNG files in /public and swap the spans for <Image> tags).
-const logos = ["Northwind", "Acme Co", "BrightLeaf", "Vela", "Summit", "Orbit"];
+// TODO: [CLIENT LOGOS] — the first two are real clients; the rest are
+// placeholders. Replace placeholders with real client names, and ideally swap
+// all for logo images (drop SVG/PNG in /public and use <Image> tags).
+const logos = [
+  "Viable Group", // real client
+  "Moneyrise Agency", // real client
+  "Northwind", // placeholder
+  "BrightLeaf", // placeholder
+  "Summit", // placeholder
+  "Orbit", // placeholder
+];
 
 const stats = [
   { value: "12+ hrs", label: "saved per week, per team" },

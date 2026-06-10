@@ -3,8 +3,7 @@ export const site = {
   name: "Trustx Hub",
   legalName: "Trustx Hub and Viable Group",
   email: "trustxhub@gmail.com",
-  // TODO: [BOOKING LINK] — replace with your Calendly/Cal.com link.
-  bookingUrl: "https://calendly.com/your-handle/intro-call",
+  bookingUrl: "https://calendly.com/trustxhub/30min",
   socials: {
     // TODO: [SOCIAL LINKS] — replace with real profiles or remove.
     linkedin: "https://www.linkedin.com/",
