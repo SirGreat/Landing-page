@@ -3,7 +3,7 @@ export const site = {
   name: "Morningrise Agency",
   legalName: "Morningrise Agency and Viable Group",
   email: "dyiesmathew27@gmail.com",
-  bookingUrl: "https://calendly.com/trustxhub/30min",
+  bookingUrl: "https://calendly.com/dyiesmathew27/morningrise-agency",
   socials: {
     // TODO: [SOCIAL LINKS] — replace with real profiles or remove.
     linkedin: "https://www.linkedin.com/",
