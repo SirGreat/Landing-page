@@ -1,8 +1,8 @@
 // Central site configuration. Update the [PLACEHOLDER] values with real info.
 export const site = {
-  name: "Trustx Hub",
-  legalName: "Trustx Hub and Viable Group",
-  email: "trustxhub@gmail.com",
+  name: "Morningrise Agency",
+  legalName: "Morningrise Agency and Viable Group",
+  email: "dyiesmathew27@gmail.com",
   bookingUrl: "https://calendly.com/trustxhub/30min",
   socials: {
     // TODO: [SOCIAL LINKS] — replace with real profiles or remove.

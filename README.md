@@ -1,6 +1,6 @@
-# Trustx Hub — Landing Page
+# Morningrise Agency — Landing Page
 
-A high-converting, single-page marketing site for **Trustx Hub and Viable Group**,
+A high-converting, single-page marketing site for **Morningrise Agency and Viable Group**,
 built with Next.js (App Router) + TypeScript + Tailwind CSS + Framer Motion.
 Fully responsive and ready to deploy to Vercel. Styled to the project **brand
 skill** (minimal & premium: near-black + off-white, single indigo accent `#4F46E5`,
@@ -67,7 +67,7 @@ All placeholders are marked with `TODO:` comments in the code. Quick checklist:
 | **Testimonials** (quotes, names, roles) | `components/Testimonials.tsx` → `quotes` |
 | **Lead form backend** | `components/LeadCapture.tsx` (see below) |
 
-Contact email (`trustxhub@gmail.com`) is already set in `lib/site.ts`.
+Contact email (`dyiesmathew27@gmail.com`) is already set in `lib/site.ts`.
 
 ## Lead form — how it works now
 
@@ -75,7 +75,7 @@ The email capture form has **no backend yet**. On submit it:
 
 1. `console.log`s the lead (`{ name, email }`), and
 2. opens the visitor's email client with a pre-filled message to
-   `trustxhub@gmail.com` (mailto fallback).
+   `dyiesmathew27@gmail.com` (mailto fallback).
 
 To make it fully automated, wire `handleSubmit` in
 `components/LeadCapture.tsx` to a real endpoint — e.g. a Next.js API route, a

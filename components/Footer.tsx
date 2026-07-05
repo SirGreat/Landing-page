@@ -9,7 +9,7 @@ export default function Footer() {
           {/* Brand */}
           <div className="lg:col-span-2">
             <a href="#top" className="text-lg font-bold tracking-tight text-ink">
-              Trustx<span className="text-accent">Hub</span>
+              Morningrise{" "}<span className="text-accent">Agency</span>
             </a>
             <p className="mt-3 max-w-sm text-sm leading-relaxed text-muted">
               {site.legalName} builds AI automations that save businesses time,

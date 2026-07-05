@@ -1,9 +1,9 @@
 ---
 name: brand
-description: Brand guidelines for Trustx Hub and Viable Group, an AI automation business. Use this skill whenever generating ANY UI, landing page, marketing copy, email, or visual asset for the company — even if the user doesn't explicitly say "use the brand." Always apply these colors, typography, voice, and layout rules so output stays on-brand and consistent.
+description: Brand guidelines for Morningrise Agency and Viable Group, an AI automation business. Use this skill whenever generating ANY UI, landing page, marketing copy, email, or visual asset for the company — even if the user doesn't explicitly say "use the brand." Always apply these colors, typography, voice, and layout rules so output stays on-brand and consistent.
 ---
 
-# Trustx Hub and Viable Group — Brand Guidelines
+# Morningrise Agency and Viable Group — Brand Guidelines
 
 AI automation business. Aesthetic direction: **minimal & premium** — refined,
 spacious, confident. Think Linear / Vercel / Stripe.
@@ -44,7 +44,7 @@ Use a restrained palette. ONE accent color, never more.
 
 ## Contact / CTAs
 - Primary CTA: Book a call/demo.
-- Email: trustxhub@gmail.com
+- Email: dyiesmathew27@gmail.com
 - [Add booking link — Calendly etc. — when available]
 
 ## Accessibility

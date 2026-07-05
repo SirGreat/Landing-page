@@ -9,11 +9,11 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Trustx Hub — AI Automations That Save Time & Capture Leads",
+  title: "Morningrise Agency — AI Automations That Save Time & Capture Leads",
   description:
-    "Trustx Hub and Viable Group build AI automations for businesses — chatbots, lead-gen workflows, document processing, and CRM/email automation. Save hours, capture more leads, cut costs.",
+    "Morningrise Agency and Viable Group build AI automations for businesses — chatbots, lead-gen workflows, document processing, and CRM/email automation. Save hours, capture more leads, cut costs.",
   openGraph: {
-    title: "Trustx Hub — AI Automations for Growing Businesses",
+    title: "Morningrise Agency — AI Automations for Growing Businesses",
     description:
       "We build AI automations that reply, qualify, and book while you sleep. Book a call today.",
     type: "website",

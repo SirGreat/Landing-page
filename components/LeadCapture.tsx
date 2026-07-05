@@ -18,10 +18,10 @@ export default function LeadCapture() {
 
     // TODO: [BACKEND] — wire this to a real endpoint (e.g. an API route,
     // Formspree, or a CRM). For now we log the lead and open a pre-filled
-    // email to trustxhub@gmail.com as a no-backend fallback.
+    // email to the address in site.email as a no-backend fallback.
     console.log("New lead:", { name, email });
 
-    const subject = encodeURIComponent("New lead from trustxhub.com");
+    const subject = encodeURIComponent("New lead from Morningrise Agency website");
     const body = encodeURIComponent(
       `Name: ${name}\nEmail: ${email}\n\nI'd like to learn how AI automation can help my business.`
     );

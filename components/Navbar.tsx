@@ -28,7 +28,7 @@ export default function Navbar() {
         aria-label="Primary"
       >
         <a href="#top" className="text-lg font-bold tracking-tight text-ink">
-          Trustx<span className="text-accent">Hub</span>
+          Morningrise{" "}<span className="text-accent">Agency</span>
         </a>
 
         <ul className="hidden items-center gap-8 md:flex">
